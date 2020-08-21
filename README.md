@@ -2,6 +2,8 @@
 
 node.js benchmark
 
+API reference: <https://jchip.github.io/node-bench/>
+
 ```js
 import { Suite } from "@jchip/bench";
 
